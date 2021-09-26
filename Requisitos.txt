@@ -1,8 +1,6 @@
-Requisitos
-
 La aplicación es para probar RESTApi.
-Se desarrolló con Python
+Se desarrolló con Python 3.9.6 for windows
 Para visalizar el codigo utilice VisualStudioCode
-Para levantar la aplicación utilice Postman
+Para probar las API's utilice Postman 8.10.0  para crear peticiones sobre APIs de una forma sencilla
 
 appy.py será la aplicación principal que permite levantar el servidor para la comuncación con postman
