@@ -1,5 +1,6 @@
 La aplicación es para probar RESTApi.
 Se desarrolló con Python 3.9.6 for windows
+Se utiliza el framework FLASK (instalar com pip3)
 Para visalizar el codigo utilice VisualStudioCode
 Para probar las API's utilice Postman 8.10.0  para crear peticiones sobre APIs de una forma sencilla
 
